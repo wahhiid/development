@@ -1,0 +1,5 @@
+=== Config GIT===
+
+Create email 	:  git config --global user.email nnuurrwwaahhiidd@gmail.com
+Create username	:  git config --global user.name "wahid@dev"
+Show List User	:  git config -l
